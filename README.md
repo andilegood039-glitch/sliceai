@@ -1,2 +1,3 @@
-# sliceai
-AI video clip maker
+# SliceAI
+
+Android-friendly video clip maker. Upload videos, create MP4 clips, preview and download them.
